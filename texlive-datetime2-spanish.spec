@@ -3,7 +3,7 @@ Version:	45785
 Release:	2
 Summary:	Spanish language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-spanish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-spanish
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-spanish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-spanish.doc.r%{version}.tar.xz
